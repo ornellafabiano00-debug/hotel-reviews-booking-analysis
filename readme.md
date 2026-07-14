@@ -1,5 +1,3 @@
-Premi `Ctrl+Shift+V` per la visualizzazione del Markdown formattato
-
 # Hotel Reviews: Booking.com
 
 Analisi di 515.212 recensioni di 1.494 hotel in 6 città europee<br>
@@ -19,7 +17,7 @@ PROJECT/
 ├── create_tables.sql                # schema database (4 tabelle)
 ├── insert_data.py                   # popolamento reale del database (Python)
 ├── insert_data.sql                  # dati
-├── analysis_queries.sql             # verifiche + 10 query di analisi
+├── analysis_queries.sql             # verifiche + 11 query di analisi
 ├── final_report.pdf                 # report finale
 └── readme.md
 ```
